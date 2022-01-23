@@ -5,13 +5,13 @@ As fórmulas utilizadas foram retiradas deste [Tutorial na Wikipédia](https://p
 
 Basta expandir as funções em série de Taylor e depois fazer a diferença para ter uma boa aproximação da derivada:
 
-![taylor](https://github.com/Dirack/Estudos/blob/master/C/diferencas_finitas/res/taylor.svg)
+![taylor](https://github.com/Geofisicando/algoritmos-numericos/blob/main/mod1/derivada_numerica/res/taylor.svg)
 
-![taylor2](https://github.com/Dirack/Estudos/blob/master/C/diferencas_finitas/res/taylor2.svg)
+![taylor2](https://github.com/Geofisicando/algoritmos-numericos/blob/main/mod1/derivada_numerica/res/taylor2.svg)
 
 A fórmula da derivada:
 
-![mdf](https://github.com/Dirack/Estudos/blob/master/C/diferencas_finitas/res/mdf.svg)
+![mdf](https://github.com/Geofisicando/algoritmos-numericos/blob/main/mod1/derivada_numerica/res/mdf.svg)
 
 Para compilar e rodar o exemplo, basta utilizar o comando a seguir:
 
