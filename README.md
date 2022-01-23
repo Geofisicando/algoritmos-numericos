@@ -1,6 +1,6 @@
 # Algoritmos numéricos
 
-> Curso de Algoritmos Numéricos baseado no livro Algoritmos Numéricos de Frederico Campos Filho
+> Curso de Algoritmos Numéricos baseado no livro Algoritmos Numéricos de Frederico Campos Filho. Disponível no [Youtube](https://youtu.be/joZsYwzcJSQ).
 
 # Índice
 
